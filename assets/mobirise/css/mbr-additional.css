@@ -11,11 +11,11 @@ body {
 }
 .display-2 {
   font-family: 'Jost', sans-serif;
-  font-size: 3rem;
+  font-size: 2.6rem;
   line-height: 1.1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.75rem;
+  font-size: 3.25rem;
 }
 .display-4 {
   font-family: 'Jost', sans-serif;
@@ -35,11 +35,11 @@ body {
 }
 .display-7 {
   font-family: 'Jost', sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.3rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2rem;
+  font-size: 1.625rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -58,9 +58,9 @@ body {
     line-height: calc( 1.1 * (2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.08rem;
+    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.88rem;
@@ -73,9 +73,9 @@ body {
     line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 1.28rem;
-    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.04rem;
+    font-size: calc( 1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1065,11 +1065,11 @@ a {
 .cid-sNv3HUjaxs .mbr-text,
 .cid-sNv3HUjaxs .mbr-section-btn {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
 }
 .cid-sNv3HUjaxs .card-title {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
 }
 .cid-sNv5YIVawE {
   padding-top: 5rem;
