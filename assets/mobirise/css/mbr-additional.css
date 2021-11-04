@@ -22,6 +22,9 @@ body {
   font-size: 1.1rem;
   line-height: 1.5;
 }
+.mbr-article { text-align: justify; 
+}
+
 .display-4 > .mbr-iconfont {
   font-size: 1.375rem;
 }
